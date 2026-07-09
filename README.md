@@ -1,8 +1,8 @@
 # Hey, I'm Joy! ✨
 
-### AI/ML engineer · Analytics Engineer in the Making · Nairobi, KE 🚀
+### AI/ML engineer in the Making · Nairobi, KE 🚀
 
-*I build data-driven solutions, design predictive models, and engineer end-to-end pipelines to turn complex data into actionable engineering systems.*
+*I build AI-powered applications, develop predictive models, and engineer end-to-end data pipelines that transform complex data into intelligent solutions.*
 
 <!-- SOCIAL BADGES -->
 <p align="left">
@@ -20,7 +20,7 @@ joy = {
     "background": "B.Sc. in Statistics,Programming & Data Science Bootcamp Graduate",
     "currently_building":"AI-powered applications", "End-to-end ETL pipelines processing datasets with over 1 million records","RAG systems","Interactive analytics dashboards"
     "past_wins": "Developed an AI-powered gym member retention system featured on School's Wall of Fame  ✨"
-    "learning": "Docker", "Apache Airflow","Data Engineering Zoomcamp", "Advanced Pipeline Orchestration",
+    "learning": "Docker", "Apache Airflow","Data Engineering Zoomcamp", "LLM Engineering",
     "superpower":"Turning messy real-world problems into clean AI solutions ✨",
     "goal_2026": "Build production-quality AI and data engineering systems that scale from experimentation to deployment 🚀"
 }
