@@ -1,6 +1,6 @@
-# Hey, I'm Joy! 👋 ✨
+# Hey, I'm Joy! ✨
 
-### Data Scientist & Statistician · Data Engineer in the Making · Nairobi, KE 🚀
+### AI/ML engineer · Analytics Engineer in the Making · Nairobi, KE 🚀
 
 *I build data-driven solutions, design predictive models, and engineer end-to-end pipelines to turn complex data into actionable engineering systems.*
 
@@ -18,8 +18,9 @@
 ```json
 joy = {
     "background": "B.Sc. in Statistics,Programming & Data Science Bootcamp Graduate",
-    "currently_building": "End-to-end data systems and cloud infrastructure architectures",
-    "learning": ["Docker", "Data Engineering Zoomcamp", "Advanced Pipeline Orchestration"],
-    "core_stack": ["Python", "PySpark", "SQL", "Power BI", "Tableau"],
-    "past_wins": "Engineered an AI-powered retention system featured on the Wall of Fame"
+    "currently_building":"AI-powered applications", "End-to-end ETL pipelines processing datasets with over 1 million records","RAG systems","Interactive analytics dashboards"
+    "past_wins": "Developed an AI-powered gym member retention system featured on School's Wall of Fame  ✨"
+    "learning": "Docker", "Apache Airflow","Data Engineering Zoomcamp", "Advanced Pipeline Orchestration",
+    "superpower":"Turning messy real-world problems into clean AI solutions ✨",
+    "goal_2026": "Build production-quality AI and data engineering systems that scale from experimentation to deployment 🚀"
 }
