@@ -1,64 +1,7 @@
-## Hi there 👋
 # Hi there, I'm Joy Murengi 👋
 
-### 🚀 Analytics | Data Systems | AI/ML | Data Engineering
-💡 Building AI-driven projects, production-ready data systems, and scalable analytical architectures.
-
----
-
-### 💻 About Me
-- 🎓 **Background:** Graduate in Statistics & Programming from Kenyatta University & Data Science Alumna of Zindua School.
-- ⚙️ **Current Focus:** Transitioning deeper into Data Engineering—moving from a "tool knower" to a "solution giver" using cloud infrastructure, containerization, and distributed computing.
-- 💼 **Professional Experience:** Designing data workflows, advanced reporting systems, and analytical frameworks at Onfon Media.
-- 🏍️ **Interests:** When I am not optimizing SQL pipelines or debugging PySpark jobs, I am exploring mechanical gear or hitting the road on a motorcycle.
-
----
-
-### 🛠️ Technical Stack & Tooling
-
-* **Languages & Foundations:** `Python`, `SQL`, `R`, `Advanced Statistics`
-* **Data Engineering & Cloud:** `PySpark`, `Docker`, `ETL/ELT Pipelines`
-* **Data Science & Machine Learning:** `Predictive Modeling`, `Scikit-Learn`, `Pandas`, `NumPy`
-* **BI & Strategic Visualization:** `Power BI`, `Tableau`, `Interactive Dashboards`
-
----
-
-### 🏆 Featured Production Projects
-
-#### 🏋️‍♂️ [AI-Powered Gym Member Retention & Engagement System](https://github.com/YOUR_USERNAME/YOUR_REPO)
-> **Featured on the Zindua School Wall of Fame**
-* Built an end-to-end predictive machine learning architecture to analyze and mitigate customer churn.
-* Managed the full development cycle: from statistical exploratory data analysis to implementing production-ready predictive classification pipelines.
-
-#### 🌆 [UrbanScape SEO Intelligence Engine](https://github.com/YOUR_USERNAME/YOUR_REPO)
-* Engineered a business intelligence and optimization framework targeting search positioning and organic footprint scaling.
-* Structured data translation layers to morph raw telemetry data into definitive stakeholder presentation insights.
-
----
-
-### 📈 GitHub Ecosystem
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" alt="Joy's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="165px"/>
+  <img src="https://camo.githubusercontent.com/27fe021b09c137e65a6deb9af04bc6f9a3541cc474578849a96dc278b1e43b54/68747470733a2f2f6d656469612e67697068792e636f6d2f6d6564692f76312e59326c6b505463354d4749334e6a45786344643465545a3664474e366257463661485236595735784e574a6d627a4e3664575a744e574a3662485236613252746248703662695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966" width="350px" alt="Animated Typing Developer Landscape" />
 </p>
 
----
-
-### 🤝 Strategic Connections
-* **LinkedIn:** [linkedin.com/in/joy-murengi](https://www.linkedin.com) *(Update with your exact URL link)*
-* **Professional Inquiries:** `your.email@example.com`
-<!--
-**JoyMurengi/JoyMurengi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Analytics | Data Systems | AI/ML | Data Engineering
