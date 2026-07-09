@@ -1,5 +1,25 @@
-# Hi there, I'm Joy Murengi 👋
+# Hey, I'm Joy! 👋 ✨
 
-<img src="https://camo.githubusercontent.com/27fe021b09c137e65a6deb9af04bc6f9a3541cc474578849a96dc278b1e43b54/68747470733a2f2f6d656469612e67697068792e636f6d2f6d6564692f76312e59326c6b505463354d4749334e6a45786344643465545a3664474e366257463661485236595735784e574a6d627a4e3664575a744e574a3662485236613252746248703662695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966" width="400" />
+### Data Scientist & Statistician · Data Engineer in the Making · Nairobi, KE 🚀
 
-### 🚀 Analytics | Data Systems | AI/ML | Data Engineering
+*I build data-driven solutions, design predictive models, and engineer end-to-end pipelines to turn complex data into actionable engineering systems.*
+
+<!-- SOCIAL BADGES -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/joy-murengi-b187a223a/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@joymurengi"><img src="https://img.shields.io/badge/I%20WRITE%20TOO-MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:joymurengi@gmail.com"><img src="https://img.shields.io/badge/SAY%20HI-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🧠 A Bit About Me
+
+```json
+joy = {
+    "background": "B.Sc. in Statistics,Programming & Data Science Bootcamp Graduate",
+    "currently_building": "End-to-end data systems and cloud infrastructure architectures",
+    "learning": ["Docker", "Data Engineering Zoomcamp", "Advanced Pipeline Orchestration"],
+    "core_stack": ["Python", "PySpark", "SQL", "Power BI", "Tableau"],
+    "past_wins": "Engineered an AI-powered retention system featured on the Wall of Fame"
+}
