@@ -2,7 +2,7 @@
 
 ### AI/ML engineer in the Making · Nairobi, KE 🚀
 
-*I am a data professional with experience in analytsics.I build storytelling dashboards with powerbi/tableu.I also develop predictive models.I am constantly learning to become an AI engineer.*
+*I am a data professional with experience in analytsics.I build storytelling dashboards with powerbi/tableu.I also develop predictive ML models.I am constantly learning to become an AI engineer.*
 
 <!-- SOCIAL BADGES -->
 <p align="left">
