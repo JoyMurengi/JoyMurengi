@@ -2,7 +2,7 @@
 
 ### AI/ML engineer in the Making · Nairobi, KE 🚀
 
-*I build AI-powered applications, develop predictive models, and engineer end-to-end data pipelines that transform complex data into intelligent solutions.*
+*I am a data professional with experience in analytsics.I build storytelling dashboards with powerbi/tableu.I also develop predictive models.I am constantly learning to become an AI engineer.*
 
 <!-- SOCIAL BADGES -->
 <p align="left">
